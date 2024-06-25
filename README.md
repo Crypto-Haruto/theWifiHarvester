@@ -8,7 +8,7 @@ For those of you that don't have a Linux environment just look at the Powershell
 run it as root with ```sudo .\theWiFiHarvester.ps1 -ShowAllProfiles```
 
 # 👨‍💻Extra👨‍💻
-Use this tool ethically. Don't use it on someones computer without permission. Use it in places that allow it.
+Use this tool ethically. Don't use it on someones computer without permission. Use it in places that allow it. I say you should just go into the file, copy and paste the code in your terminal or download the file and run it.
 Thanks for using theWiFiHarvester!
 
 # 🎮 Support my YouTube channel! 🎮
