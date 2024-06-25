@@ -3,6 +3,8 @@
 # ⚙Installation⚙
 install it on Kali Linux or any Linux environment with ```git clone https://github.com/ ```
 For those of you that don't have a Linux environment just look at the Powershell Script, copy & paste it into Powershell
+<br>
+Don't try the installation, I have to figure it out first 🤓
 
 # ⚙Usage⚙
 run it as root with ```sudo .\theWiFiHarvester.ps1 -ShowAllProfiles```
